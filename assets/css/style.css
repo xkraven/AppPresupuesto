@@ -1,0 +1,62 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .abs-center {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+  } 
+
+.losTitulos{
+    color:black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+
+.fondoPresupuesto{
+    background-color: #a4e1be;
+    border: 5px solid green;
+    border-radius: 12px;
+    margin-bottom:2%;
+    padding: 10px;
+}
+
+.fondoGasto{
+    background-color: #e9a1a1;
+    border: 5px solid red;
+    border-radius: 12px;
+    margin-top: 2%;
+    padding: 10px;
+}
+
+.fondoRegistro1{
+    background-color: whitesmoke;
+    border: 5px solid black;
+    border-radius: 12px;
+    margin-bottom:2%;
+    padding: 10px;
+}
+
+.fondoRegistro2{
+    background-color: whitesmoke;
+    border: 5px solid black;
+    border-radius: 12px;
+    margin-top:2%;
+    padding: 10px;
+}
